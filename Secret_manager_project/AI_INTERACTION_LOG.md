@@ -93,7 +93,7 @@ Provide your evaluation in the following JSON format only (no markdown, no addit
 
 
 **response:**
-
+NOTE: the AI summarized and changed the student inputs in the response.
 {
 
 &#x09;"student\_inputs":{
