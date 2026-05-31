@@ -2,7 +2,7 @@
 The repository which contains the files of the Secure Secrets Manager project.
 
 
-###Workflow for first time setup:
+### Workflow for first time setup:
 
 1. install packages:
 pip install -r requirements.txt
