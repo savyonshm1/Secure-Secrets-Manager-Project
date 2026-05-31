@@ -1,0 +1,7 @@
+[2026-05-27T14:27:57.039899+00:00] User 'wanda' logged in
+[2026-05-27T14:29:07.946549+00:00] User 2 generated share token for secret 4
+[2026-05-27T14:29:35.698840+00:00] Shared secret 4 accessed using token
+[2026-05-27T14:30:41.866598+00:00] User 2 generated share token for secret 4
+[2026-05-27T14:32:22.172600+00:00] User 'test-user' logged in
+[2026-05-27T14:32:57.734881+00:00] Shared secret 4 accessed using token
+[2026-05-27T14:46:55.310822+00:00] User 'test-user' logged in

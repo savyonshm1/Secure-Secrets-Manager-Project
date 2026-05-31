@@ -1,0 +1,6 @@
+Flask
+Flask-JWT-Extended
+bcrypt  # a tool for secure password hashing
+cryptography
+python-dotenv  # a tool that manages configs into the system's env variables
+pytest  # a tool for testing programs

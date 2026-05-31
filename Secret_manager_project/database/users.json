@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "username": "testuser",
+        "password_hash": "$2b$12$QC8FY31Fw5y6I8VjhBbb5uSO2PYypEMAWdW73T3SMoq8ZJCcPvaKK"
+    },
+    {
+        "id": 2,
+        "username": "wanda",
+        "password_hash": "$2b$12$1SMG4Pgfuy5ukquRvP20MuIPbkybetmaZSr5OMt4VHm1c4G.o5SlS"
+    },
+    {
+        "id": 3,
+        "username": "test-user",
+        "password_hash": "$2b$12$m8IjsA27D1yHyb7QDaXyLOWh8wiF1FtnZh9zwQgfmmYKCMSnjasDm"
+    }
+]
